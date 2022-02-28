@@ -36,7 +36,7 @@
   </div>
 
    <h1> Super machi!! </h1>
-   <h2> Howdododouuu??!</h2>
+   <h2> Once more Howdododouuu??!</h2>
 
   
 </form>
